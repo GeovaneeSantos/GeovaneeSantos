@@ -68,24 +68,27 @@ Mantenho um equilíbrio constante entre o ambiente acadêmico e o corporativo.
 
 ---
 
+---
+
 <div align="center">
- 
+
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovaneeSantos&theme=transparent&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneeSantos&theme=transparent&bg_color=0D1117&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=false&layout=compact" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeovaneeSantos&theme=transparent&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovaneeSantos&theme=transparent&bg_color=0D1117&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=false&layout=compact" />
 </div>
 
 ### 📌 Pinned Repositories
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div align="center">
   <a href="https://github.com/GeovaneeSantos/dio-lab-open-source">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeovaneeSantos&repo=dio-lab-open-source&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GeovaneeSantos&repo=dio-lab-open-source&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
   </a>
   <a href="https://github.com/GeovaneeSantos/ALPHA_IA">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeovaneeSantos&repo=ALPHA_IA&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GeovaneeSantos&repo=ALPHA_IA&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
   </a>
 </div>
 
+</div>
 </div>
