@@ -73,7 +73,7 @@ Mantenho um equilíbrio constante entre o ambiente acadêmico e o corporativo.
 
 <div align="center">
 
-## 📈 Esttísticas no GitHub
+## 📈 Estatísticas no GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeovaneeSantos&theme=transparent&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=false" />
