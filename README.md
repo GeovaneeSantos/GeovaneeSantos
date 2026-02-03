@@ -18,16 +18,17 @@
 
 ## 👨‍💻 Sobre Mim | About Me
 
-> *"Transformando lógica e eletricidade em soluções digitais eficientes."*
+> *"Transformando lógica e programação em soluções digitais eficientes."*
 
 Olá! Me chamo **Geovane Rodrigues**. Atualmente curso o **3° Semestre de Ciência da Computação na Uninove** e atuo profissionalmente na intersecção entre software e hardware.
 
-Minha trajetória é marcada pela curiosidade de entender como as coisas funcionam "debaixo do capô". Essa paixão evoluiu de manutenções de hardware para o desenvolvimento de soluções complexas em **Fullstack** e **IoT**. Hoje, combino o rigor acadêmico com a prática da **Indústria 4.0**, buscando não apenas escrever código, mas agregar valor real ao negócio através da tecnologia.
+Minha trajetória é marcada pela curiosidade de entender como as coisas funcionam "debaixo do capô". Essa paixão evoluiu de manutenções de hardware para o desenvolvimento de soluções complexas em **Fullstack** e **IoT**. Hoje, combino o rigor acadêmico com a prática da **Indústria 4.0**, buscando não apenas escrever código, mas agregar valor real ao negócio através da tecnologia. 
+
 
 ### 🚀 O que estou fazendo agora:
-* **Formação Avançada:** Bootcamp **CI&T Java Developer** e aprofundamento em arquitetura de software.
-* **Atuação Profissional:** Desenvolvimento de soluções para **Automação Industrial (CLP/IHM)** e IoT com Node-RED e Node.js.
-* **Projetos de Impacto:** Já atuei em sistemas para gigantes como **Sabesp** e **Coca-Cola**, além de desenvolver soluções internas de telemetria de energia.
+* **Formação Avançada:** Bootcamp **CI&T Java Developer** e aprofundamento em arquitetura de software, formação de desenvolvedor Elipse E3 para desenvolvimento de sistemas de supervisão SCADA.
+* **Atuação Profissional:** Desenvolvimento de soluções para **Automação Industrial (CLP/IHM)** e IoT com Node-RED, Node.js, Ferramentas de supervisão e armazenamento de dados.
+* **Projetos de Impacto:** Já atuei indiretamente em sistemas para gigantes como **Sabesp** e **Coca-Cola**, além de desenvolver soluções internas de telemetria de energia.
 
 ---
 
@@ -63,8 +64,8 @@ Minha trajetória é marcada pela curiosidade de entender como as coisas funcion
 ## 📚 Destaques Acadêmicos & Metodologia
 
 Mantenho um equilíbrio constante entre o ambiente acadêmico e o corporativo.
-* **IA & Microserviços:** Desenvolvimento de uma IA em Python para classificação de hardware, arquitetada como microserviço consumido por frontend Node.js.
-* **Soft Skills:** Vivência diária com **Scrum** e **Kanban**, prática ativa de **Code Reviews** e comunicação multidisciplinar em equipes ágeis.
+* **IA & Microserviços:** Liderei uma equipe acadêmica no desenvolvimeto de uma IA em Python para classificação de hardware, arquitetada como microserviço e consumido por uma aplicação Web baseada em Node.js.
+* **Soft Skills:** Vivência diária com desenvolvimeto soluções e resolução de problemas, prática ativa de **Code Reviews** e comunicação multidisciplinar em equipes ágeis, autoorganização de atividades via Kanbam e práticas ágeis de desenvolvimento, prática filosófica de quebrar problemas em partes menores para resolve-lo de forma eficiente e modular.
 
 ---
 
@@ -72,14 +73,14 @@ Mantenho um equilíbrio constante entre o ambiente acadêmico e o corporativo.
 
 <div align="center">
 
-## 📈 GitHub Stats
+## 📈 Esttísticas no GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeovaneeSantos&theme=transparent&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=false" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovaneeSantos&theme=transparent&bg_color=0D1117&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=false&layout=compact" />
 </div>
 
-### 📌 Pinned Repositories
+### 📌 Principais Repositórios
 
 <div align="center">
   <a href="https://github.com/GeovaneeSantos/dio-lab-open-source">
@@ -89,6 +90,8 @@ Mantenho um equilíbrio constante entre o ambiente acadêmico e o corporativo.
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GeovaneeSantos&repo=ALPHA_IA&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
   </a>
 </div>
+
+> *"Me encanto com a capacidade da programação e tecnologia resolverem problemas reais da socidade, portanto sempre busco entender os impactos que cada linha de código ou ideia executada pode trazer à vida das pessoas... "*
 
 </div>
 </div>
