@@ -26,7 +26,7 @@ Minha trajetória é marcada pela curiosidade de entender como as coisas funcion
 
 
 ### 🚀 O que estou fazendo agora:
-* **Formação Avançada:** Bootcamp **CI&T Java Developer** e aprofundamento em arquitetura de software, formação de desenvolvedor Elipse E3 para desenvolvimento de sistemas de supervisão SCADA.
+* **Projetos Pessoais:** Desenvolvo alguns projetos pessoais para persistência e aplicação dos conhecimentos obtidos
 * **Atuação Profissional:** Desenvolvimento de soluções para **Automação Industrial (CLP/IHM)** e IoT com Node-RED, Node.js, Ferramentas de supervisão e armazenamento de dados.
 * **Projetos de Impacto:** Já atuei indiretamente em sistemas para gigantes como **Sabesp** e **Coca-Cola**, além de desenvolver soluções internas de telemetria de energia.
 
