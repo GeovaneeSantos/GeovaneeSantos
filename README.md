@@ -65,6 +65,7 @@ Minha trajetória é marcada pela curiosidade de entender como as coisas funcion
 
 Mantenho um equilíbrio constante entre o ambiente acadêmico e o corporativo.
 * **IA & Microserviços:** Liderei uma equipe acadêmica no desenvolvimeto de uma IA em Python para classificação de hardware, arquitetada como microserviço e consumido por uma aplicação Web baseada em Node.js.
+* **Jogos:** Estou tendo uma disciplina ed desenvovimento de games administrada durante o curso de ciencia da computação. Eu e minha equipe estamos desenvolvendo-o seguindo as boas práticas de programação e dando lugar à liberdade criativa...
 * **Soft Skills:** Vivência diária com desenvolvimeto soluções e resolução de problemas, prática ativa de **Code Reviews** e comunicação multidisciplinar em equipes ágeis, autoorganização de atividades via Kanbam e práticas ágeis de desenvolvimento, prática filosófica de quebrar problemas em partes menores para resolve-lo de forma eficiente e modular.
 
 ---
