@@ -42,6 +42,7 @@ Minha trajetória é marcada pela curiosidade de entender como as coisas funcion
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
 
 **Frontend & Web**
 <br>
